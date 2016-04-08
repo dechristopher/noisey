@@ -1,2 +1,5 @@
 # noisey
-A basic music player written in Java for the WIT Computer Science final project for the Spring 2016 semester.
+
+Noisey is a music player application written in JavaFX that utilizes the mp3agic library for audio file metadata consumption.
+
+Noisey was created by Charles Arnaudo and Andrew DeChristopher for their WIT CS2 final project for the Spring 2016 semester.
