@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d81e1af-4624-4420-9745-dff9f37340d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application/Main$1.class" afterPath="$PROJECT_DIR$/bin/application/Main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application/Main$2.class" afterPath="$PROJECT_DIR$/bin/application/Main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application/Main.class" afterPath="$PROJECT_DIR$/bin/application/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application/MusicController$1.class" afterPath="$PROJECT_DIR$/bin/application/MusicController$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/application/MusicController.class" afterPath="$PROJECT_DIR$/bin/application/MusicController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/AbstractID3v2FrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/AbstractID3v2FrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/AbstractID3v2Tag.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/AbstractID3v2Tag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/BaseException.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/BaseException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/BufferTools.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/BufferTools.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ByteBufferUtils.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ByteBufferUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/EncodedText.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/EncodedText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/FileWrapper.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/FileWrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3Wrapper.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3Wrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1Genres.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1Genres.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1Tag.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v1Tag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v22Tag.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v22Tag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v23Tag.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v23Tag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v24Frame.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v24Frame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v24Tag.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v24Tag.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ChapterFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ChapterFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ChapterTOCFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ChapterTOCFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2CommentFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2CommentFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2Frame.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2Frame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2FrameSet.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2FrameSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ObseleteFrame.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ObseleteFrame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ObseletePictureFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2ObseletePictureFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2PictureFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2PictureFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2TagFactory.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2TagFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2TextFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2TextFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2UrlFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2UrlFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2WWWFrameData.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/ID3v2WWWFrameData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/InvalidDataException.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/InvalidDataException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/Mp3File.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/Mp3File.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/MpegFrame.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/MpegFrame.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/MutableInteger.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/MutableInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/NoSuchTagException.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/NoSuchTagException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/NotSupportedException.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/NotSupportedException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/UnsupportedTagException.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/UnsupportedTagException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/Version.class" afterPath="$PROJECT_DIR$/bin/com/mpatric/mp3agic/Version.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Noisey Rewrite.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Noisey Rewrite.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Noisey Rewrite.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -72,6 +42,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Noisey Rewrite.iml" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -239,10 +216,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533000" />
+    <option name="totallyTimeSpent" value="547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -257,7 +235,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -288,6 +266,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
